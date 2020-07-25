@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**LinXueyuanStdio/LinXueyuanStdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXueyuanStdio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
+<details>
+<summary>Introduction to My Open Source </summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Math Formula OCR Series
+  - [LaTeX_OCR](https://github.com/LinXueyuanStdio/LaTeX_OCR)
+  - [LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)
+  - [Data-for-LaTeX_OCR](https://github.com/LinXueyuanStdio/Data-for-LaTeX_OCR)
+  
+2. Android Architecture Series
+  - [lifecycle-component](https://github.com/LinXueyuanStdio/lifecycle-component)
+
+</details>

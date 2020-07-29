@@ -1,6 +1,7 @@
 ### Hi 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinXueyuanStdio&layout=compact" />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXueyuanStdio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinXueyuanStdio&layout=compact" />
 
 My name is Lin Xueyuan from China. Studying for practicing my Tao.
 
@@ -62,14 +63,14 @@ My name is Lin Xueyuan from China. Studying for practicing my Tao.
   |[Silly-AI-learns-to-paint](https://github.com/LinXueyuanStdio/Silly-AI-learns-to-paint) | 学画画的AI |
 
 4.
-  |个人项目：时光猫| 持续维护3年+，完全个人开发|
+  |个人项目：时光猫| 持续维护3年+|
   |:---|:---|
   |[timecat](https://github.com/LinXueyuanStdio/timecat) | 时光猫本体 |
   |[TimeCatPluginManager](https://github.com/LinXueyuanStdio/TimeCatPluginManager) | 插件管理器 |
   |[TimeCatShadow](https://github.com/LinXueyuanStdio/TimeCatShadow)  | Shadow 插件框架 |
   |[TimeCatPlugin](https://github.com/LinXueyuanStdio/TimeCatPlugin) | 插件仓库 |
-  |[TimeCatPPA](https://github.com/LinXueyuanStdio/TimeCatPPA) | Android命令行deb包 |
-  |[module-book-reader](https://github.com/LinXueyuanStdio/module-book-reader) | 按GPL协议开源阅读模块 |
+  |[TimeCatPPA](https://github.com/LinXueyuanStdio/TimeCatPPA) | Android命令行 |
+  |[module-book-reader](https://github.com/LinXueyuanStdio/module-book-reader) | 阅读模块 |
 
 </details>
 

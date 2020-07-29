@@ -1,13 +1,10 @@
 ### Hi 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXueyuanStdio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinXueyuanStdio&layout=compact" />
 
 My name is Lin Xueyuan from China. Studying for practicing my Tao.
 
 为践行自己的道而读书。--林学渊
-
-本科中山大学数学，现北京邮电大学计算机研究生。
 
 <details>
 <summary>Introduction to My Open Source</summary>

@@ -72,3 +72,7 @@ Studying for practicing my Tao.
 </details>
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/LinXueyuanStdio/count.svg" />
+</p>

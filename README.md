@@ -74,5 +74,8 @@ Studying for practicing my Tao.
 <br>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/LinXueyuanStdio/count.svg" />
+  <img src="https://profile-counter.glitch.me/LinXueyuanStdio/count.svg" /><br>
+  <a href="https://clustrmaps.com/site/1bd5h" title="Visit tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=-ernLw86ZmiuLFIzbC1kNtzw9EdvgdwRqh0uXMx9af4&cl=ffffff"></a>
 </p>
+
+

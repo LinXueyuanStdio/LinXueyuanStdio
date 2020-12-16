@@ -1,5 +1,4 @@
-### Hi 👋
-
+### Hi 👋 <img align="right" src="https://profile-counter.glitch.me/LinXueyuanStdio/count.svg" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXueyuanStdio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
 Studying for practicing my Tao.
@@ -72,10 +71,7 @@ Studying for practicing my Tao.
 </details>
 
 <br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/LinXueyuanStdio/count.svg" /><br>
-  <a href="https://clustrmaps.com/site/1bd5h" title="Visit tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=-ernLw86ZmiuLFIzbC1kNtzw9EdvgdwRqh0uXMx9af4&cl=ffffff"></a>
-</p>
+
+
 
 

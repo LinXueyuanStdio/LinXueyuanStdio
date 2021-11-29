@@ -74,6 +74,10 @@ Studying for practicing my Tao.
 
 <br>
 
+Blog
+- https://blog.timecat.online
+- https://xichen.pub
+
 ![Game[^1]](github-user-contribution.svg)
 
 [^1]: _generated with [Platane/snk](https://github.com/Platane/snk)_

@@ -37,41 +37,41 @@ Studying for practicing my Tao.
 <details>
 <summary>我的开源项目简介</summary>
 
-1. 
-  |数学公式识别系列||
-  |:---|:---|
-  | [LaTeX_OCR](https://github.com/LinXueyuanStdio/LaTeX_OCR) | 第一版 |
-  | [LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO) | 进阶版 |
-  | [Data-for-LaTeX_OCR](https://github.com/LinXueyuanStdio/Data-for-LaTeX_OCR) | 数据 |
+1.
+  | 数学公式识别系列                                                            |        |
+  | :-------------------------------------------------------------------------- | :----- |
+  | [LaTeX_OCR](https://github.com/LinXueyuanStdio/LaTeX_OCR)                   | 第一版 |
+  | [LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)           | 进阶版 |
+  | [Data-for-LaTeX_OCR](https://github.com/LinXueyuanStdio/Data-for-LaTeX_OCR) | 数据   |
 
-2. 
-  |Android 系列||
-  |:---|:---|
-  | [lifecycle-component](https://github.com/LinXueyuanStdio/lifecycle-component) |  一个组件化架构规范 |
-  | [DragBoardView](https://github.com/LinXueyuanStdio/DragBoardView) | Android 组件 |
+2.
+  | Android 系列                                                                  |                    |
+  | :---------------------------------------------------------------------------- | :----------------- |
+  | [lifecycle-component](https://github.com/LinXueyuanStdio/lifecycle-component) | 一个组件化架构规范 |
+  | [DragBoardView](https://github.com/LinXueyuanStdio/DragBoardView)             | Android 组件       |
 
-3. 
-  |人工智能系列||
-  |:---|:---|
-  |[PythonDataMining](https://github.com/LinXueyuanStdio/PythonDataMining) | 数据挖掘笔记 |
-  |[scRNN-seq](https://github.com/LinXueyuanStdio/scRNN-seq) | RNN序列预测 |
-  |[Protease-target-prediction](https://github.com/LinXueyuanStdio/Protease-target-prediction) | 蛋白质靶标预测 |
-  |[Silly-AI-learns-to-paint](https://github.com/LinXueyuanStdio/Silly-AI-learns-to-paint) | 学画画的AI |
+3.
+  | 人工智能系列                                                                                |                |
+  | :------------------------------------------------------------------------------------------ | :------------- |
+  | [PythonDataMining](https://github.com/LinXueyuanStdio/PythonDataMining)                     | 数据挖掘笔记   |
+  | [scRNN-seq](https://github.com/LinXueyuanStdio/scRNN-seq)                                   | RNN序列预测    |
+  | [Protease-target-prediction](https://github.com/LinXueyuanStdio/Protease-target-prediction) | 蛋白质靶标预测 |
+  | [Silly-AI-learns-to-paint](https://github.com/LinXueyuanStdio/Silly-AI-learns-to-paint)     | 学画画的AI     |
 
 4.
-  |个人项目：时光猫| 持续维护3年+|
-  |:---|:---|
-  |[timecat](https://github.com/LinXueyuanStdio/timecat) | 时光猫本体 |
-  |[TimeCatPluginManager](https://github.com/LinXueyuanStdio/TimeCatPluginManager) | 插件管理器 |
-  |[TimeCatShadow](https://github.com/LinXueyuanStdio/TimeCatShadow)  | Shadow 插件框架 |
-  |[TimeCatPlugin](https://github.com/LinXueyuanStdio/TimeCatPlugin) | 插件仓库 |
-  |[TimeCatPPA](https://github.com/LinXueyuanStdio/TimeCatPPA) | Android命令行 |
-  |[module-book-reader](https://github.com/LinXueyuanStdio/module-book-reader) | 阅读模块 |
+  | 个人项目：时光猫                                                                | 持续维护4年+    |
+  | :------------------------------------------------------------------------------ | :-------------- |
+  | [timecat](https://github.com/LinXueyuanStdio/timecat)                           | 时光猫本体      |
+  | [TimeCatPluginManager](https://github.com/LinXueyuanStdio/TimeCatPluginManager) | 插件管理器      |
+  | [TimeCatShadow](https://github.com/LinXueyuanStdio/TimeCatShadow)               | Shadow 插件框架 |
+  | [TimeCatPlugin](https://github.com/LinXueyuanStdio/TimeCatPlugin)               | 插件仓库        |
+  | [TimeCatPPA](https://github.com/LinXueyuanStdio/TimeCatPPA)                     | Android命令行   |
+  | [module-book-reader](https://github.com/LinXueyuanStdio/module-book-reader)     | 阅读模块        |
 
 </details>
 
 <br>
 
-
+![Game](github-user-contribution.svg)
 
 

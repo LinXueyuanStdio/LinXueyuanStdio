@@ -72,6 +72,6 @@ Studying for practicing my Tao.
 
 <br>
 
-![Game](github-user-contribution.svg)
+![Game](github-user-contribution.svg)[^1]
 
-
+[^1]: _generated with [Platane/snk](https://github.com/Platane/snk)_

@@ -77,7 +77,7 @@ Studying for practicing my Tao.
 Blog
 - https://blog.timecat.online
 - https://xichen.pub
-- https://xichen-blog.vercel.app/
+- https://xichen-blog.vercel.app
 
 ![Game[^1]](github-user-contribution.svg)
 

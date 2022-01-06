@@ -3,9 +3,9 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LinXueyuanStdio" alt="LinXueyuanStdio" /></p>
 
-Studying for practicing my Tao.
+Studying for creating another world.
 
-为践行自己的道而读书。
+为创世而读书。
 
 <details>
 <summary>Introduction to My Open Source</summary>

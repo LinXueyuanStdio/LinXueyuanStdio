@@ -75,9 +75,9 @@ Studying for creating another world.
 <br>
 
 Blog
-- https://blog.timecat.online
-- https://xichen.pub
 - https://xichen-blog.vercel.app
+- https://xichen.pub
+- https://blog.timecat.online
 
 ![Game[^1]](github-user-contribution.svg)
 

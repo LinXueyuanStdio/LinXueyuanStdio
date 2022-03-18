@@ -61,7 +61,7 @@ Studying for creating another world.
   | [Silly-AI-learns-to-paint](https://github.com/LinXueyuanStdio/Silly-AI-learns-to-paint)     | 学画画的AI     |
 
 4.
-  | 个人项目：时光猫                                                                | 持续维护4年+    |
+  | 个人项目：时光猫                                                                | 持续维护5年+    |
   | :------------------------------------------------------------------------------ | :-------------- |
   | [timecat](https://github.com/LinXueyuanStdio/timecat)                           | 时光猫本体      |
   | [TimeCatPluginManager](https://github.com/LinXueyuanStdio/TimeCatPluginManager) | 插件管理器      |
@@ -72,12 +72,14 @@ Studying for creating another world.
 
 </details>
 
-<br>
+**About me:**
 
-Blog
-- https://xichen-blog.vercel.app
-- https://xichen.pub
-- https://blog.timecat.online
+- ❤️ Coding.
+- 💬 Email: linxy59@mail2.sysu.edu.cn
+- 👁‍🗨 Blog:
+  - https://xichen-blog.vercel.app
+  - https://xichen.pub
+  - https://blog.timecat.online
 
 ![Game[^1]](github-user-contribution.svg)
 

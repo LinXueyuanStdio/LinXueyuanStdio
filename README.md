@@ -38,7 +38,6 @@ Studying for creating another world.
 
 <details>
 <summary>我的开源项目简介</summary>
-
 1.
   | 数学公式识别系列                                                            |        |
   | :-------------------------------------------------------------------------- | :----- |
@@ -49,9 +48,10 @@ Studying for creating another world.
 2.
   | Android 系列                                                                  |                    |
   | :---------------------------------------------------------------------------- | :----------------- |
-  | [lifecycle-component](https://github.com/LinXueyuanStdio/lifecycle-component) | 一个组件化架构规范 |
-  | [DragBoardView](https://github.com/LinXueyuanStdio/DragBoardView)             | Android 组件       |
-
+  | [lifecycle-component](https://github.com/LinXueyuanStdio/lifecycle-component) | 一个组件化架构规范  |
+  | [DragBoardView](https://github.com/LinXueyuanStdio/DragBoardView)             | Android 组件:看板  |
+  | [MLang](https://github.com/LinXueyuanStdio/MLang)                             | Android 组件:国际化 |
+  
 3.
   | 人工智能系列                                                                                |                |
   | :------------------------------------------------------------------------------------------ | :------------- |
@@ -80,6 +80,14 @@ Studying for creating another world.
   - https://xichen-blog.vercel.app
   - https://xichen.pub
   - https://blog.timecat.online
+
+我的知识图谱论文+代码
+  
+  | 论文                                                          | 代码                                            | 会议/期刊 | 状态 | 任务 | 简介 |
+  | :----------------------------------------------------------- | :----------------------------------------------- | :-----: | :-----: | :------ |:------ |
+  | [FLEX_thesis](https://github.com/LinXueyuanStdio/FLEX_thesis) | [FLEX](https://github.com/LinXueyuanStdio/FLEX) | ICML2022 | peer review | 知识图谱复杂逻辑推理 | Feature-Logic 嵌入框架，可以处理所有一阶逻辑，支持任意特征空间 |
+  | [QubitE_thesis](https://github.com/LinXueyuanStdio/QubitE_thesis) | [QubitE](https://github.com/LinXueyuanStdio/QubitE) | NAACL2022 | peer review | 知识图谱补全 | 实体嵌入为量子位，关系嵌入为量子门，通过量子计算进行补全 |
+  | [EchoEA_thesis](https://github.com/LinXueyuanStdio/EchoEA_thesis) | [EchoEA](https://github.com/LinXueyuanStdio/EchoEA) | TASLP | peer review | 知识图谱对齐 | Echo 网络，通过信息在实体和关系之间的回响，增强实体表示进行对齐 |
 
 ![Game[^1]](github-user-contribution.svg)
 

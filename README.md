@@ -3,6 +3,8 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LinXueyuanStdio" alt="LinXueyuanStdio" /></p>
 
+【找暑期实习中，知识图谱算法方向，欢迎联系我】[简历](https://github.com/LinXueyuanStdio/LinXueyuanStdio/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%8E%A8%E7%90%862_%E6%9E%97%E5%AD%A6%E6%B8%8A.pdf)
+
 Studying for creating another world.
 
 为创世而读书。

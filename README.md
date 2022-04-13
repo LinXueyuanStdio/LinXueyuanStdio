@@ -88,9 +88,9 @@ Studying for creating another world.
   
   | 论文                                                          | 代码                                            | 会议/期刊 | 状态 | 任务 | 简介 |
   | :----------------------------------------------------------- | :----------------------------------------------- | :-----: | :-----: | :------ |:------ |
-  | [FLEX_thesis](https://github.com/LinXueyuanStdio/FLEX_thesis) | [FLEX](https://github.com/LinXueyuanStdio/FLEX) | ICML2022 | peer review (all positive) | 知识图谱复杂逻辑推理 | Feature-Logic 嵌入框架，可以处理所有一阶逻辑，支持任意特征空间 |
-  | [QubitE_thesis](https://github.com/LinXueyuanStdio/QubitE_thesis) | [QubitE](https://github.com/LinXueyuanStdio/QubitE) | Findings of NAACL2022 | accepted | 知识图谱补全 | 实体嵌入为量子位，关系嵌入为量子门，通过量子计算进行补全 |
-  | [EchoEA_thesis](https://github.com/LinXueyuanStdio/EchoEA_thesis) | [EchoEA](https://github.com/LinXueyuanStdio/EchoEA) | TASLP | peer review | 知识图谱对齐 | Echo 网络，通过信息在实体和关系之间的回响，增强实体表示进行对齐 |
+  | [FLEX_thesis](https://github.com/LinXueyuanStdio/FLEX_thsis) | [FLEX](https://github.com/LinXueyuanStdio/FLEX) | ICML2022 | peer review (all positive) | 知识图谱复杂逻辑推理 | Feature-Logic 嵌入框架，可以处理所有一阶逻辑，支持任意特征空间 |
+  | [QubitE_thesis](https://github.com/LinXueyuanStdio/QubitE_thsis) | [QubitE](https://github.com/LinXueyuanStdio/QubitE) | Findings of NAACL2022 | accepted | 知识图谱补全 | 实体嵌入为量子位，关系嵌入为量子门，通过量子计算进行补全 |
+  | [EchoEA_thesis](https://github.com/LinXueyuanStdio/EchoEA_thsis) | [EchoEA](https://github.com/LinXueyuanStdio/EchoEA) | TASLP | peer review | 知识图谱对齐 | Echo 网络，通过信息在实体和关系之间的回响，增强实体表示进行对齐 |
 
 ![Game[^1]](github-user-contribution.svg)
 

@@ -82,7 +82,6 @@ Studying for creating another world.
 - 👁‍🗨 Blog:
   - https://xichen-blog.vercel.app
   - https://xichen.pub
-  - https://blog.timecat.online
 
 我的知识图谱论文+代码
   

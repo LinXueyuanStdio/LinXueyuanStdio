@@ -3,7 +3,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LinXueyuanStdio" alt="LinXueyuanStdio" /></p>
 
-【找暑期实习中，知识图谱算法方向，欢迎联系我】[简历](https://github.com/LinXueyuanStdio/LinXueyuanStdio/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%8E%A8%E7%90%862_%E6%9E%97%E5%AD%A6%E6%B8%8A.pdf)
+【找工作种，知识图谱算法方向，欢迎联系我】[简历](https://github.com/LinXueyuanStdio/LinXueyuanStdio/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%8E%A8%E7%90%862_%E6%9E%97%E5%AD%A6%E6%B8%8A.pdf)
 
 Studying for creating another world.
 
@@ -87,7 +87,8 @@ Studying for creating another world.
   
   | 论文                                                          | 代码                                            | 会议/期刊 | 状态 | 任务 | 简介 |
   | :----------------------------------------------------------- | :----------------------------------------------- | :-----: | :-----: | :------ |:------ |
-  | [FLEX_thesis](https://github.com/LinXueyuanStdio/FLEX_thsis) | [FLEX](https://github.com/LinXueyuanStdio/FLEX) | ICML2022 | peer review (all positive) | 知识图谱复杂逻辑推理 | Feature-Logic 嵌入框架，可以处理所有一阶逻辑，支持任意特征空间 |
+  | [TFLEX_thesis](https://github.com/LinXueyuanStdio/TFLEX_thsis) | [TFLEX](https://github.com/LinXueyuanStdio/TFLEX) | NIPS2022 | peer review | 时序知识图谱复杂逻辑推理 | 提出新任务：时序知识图谱上的复杂逻辑推理。推广FLEX到时序知识图谱上，能够处理包括 Before, After, Between 等的时序逻辑。 |
+  | [FLEX_thesis](https://github.com/LinXueyuanStdio/FLEX_thsis) | [FLEX](https://github.com/LinXueyuanStdio/FLEX) | NIPS2022 | peer review | 知识图谱复杂逻辑推理 | Feature-Logic 嵌入框架，可以处理所有一阶逻辑，支持任意特征空间 |
   | [QubitE_thesis](https://github.com/LinXueyuanStdio/QubitE_thsis) | [QubitE](https://github.com/LinXueyuanStdio/QubitE) | Findings of NAACL2022 | accepted | 知识图谱补全 | 实体嵌入为量子位，关系嵌入为量子门，通过量子计算进行补全 |
   | [EchoEA_thesis](https://github.com/LinXueyuanStdio/EchoEA_thsis) | [EchoEA](https://github.com/LinXueyuanStdio/EchoEA) | TASLP | peer review | 知识图谱对齐 | Echo 网络，通过信息在实体和关系之间的回响，增强实体表示进行对齐 |
 

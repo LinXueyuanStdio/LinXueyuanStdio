@@ -99,7 +99,7 @@ Studying for creating another world.
 - ❤️ Coding.
 - 💬 Email: linxy59@mail2.sysu.edu.cn
 - 👁‍🗨 Blog:
-  - https://xichen-blog.vercel.app
+  - https://linxueyuan.online
   - https://xichen.pub
 <!-- 
 我的知识图谱论文+代码

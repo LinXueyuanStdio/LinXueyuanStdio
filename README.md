@@ -3,9 +3,13 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LinXueyuanStdio" alt="LinXueyuanStdio" /></p>
 
-Study for creating another world. Pursue eternity and truth.
+Study for creating another world.
 
-为创世而读书。追求永恒与真理。
+Pursue eternity and truth.
+
+为创世而读书。
+
+追求永恒与真理。
 
 <details>
 <summary>Introduction to My Open Source</summary>

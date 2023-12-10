@@ -102,9 +102,8 @@ Pursue eternity and truth.
 
 - ❤️ Coding.
 - 💬 Email: linxy59@mail2.sysu.edu.cn
-- 👁‍🗨 Blog:
-  - https://linxueyuan.online
-  - https://xichen.pub
+- 👁‍🗨 Blog: https://linxueyuan.online
+- 🧑‍🎓 Academic: https://xichen.pub/academic-cv
 <!-- 
 我的知识图谱论文+代码
   

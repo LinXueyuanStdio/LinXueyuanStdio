@@ -58,14 +58,17 @@ Pursue eternity and truth.
   | [MLang](https://github.com/LinXueyuanStdio/MLang)                             | Android 组件:国际化 |
   
 3.
-  | 人工智能系列                                                                                |                |
-  | :------------------------------------------------------------------------------------------ | :------------- |
-  | [PythonDataMining](https://github.com/LinXueyuanStdio/PythonDataMining)                     | 数据挖掘笔记   |
-  | [scRNN-seq](https://github.com/LinXueyuanStdio/scRNN-seq)                                   | RNN序列预测    |
-  | [Protease-target-prediction](https://github.com/LinXueyuanStdio/Protease-target-prediction) | 蛋白质靶标预测 |
-  | [Silly-AI-learns-to-paint](https://github.com/LinXueyuanStdio/Silly-AI-learns-to-paint)     | 学画画的AI     |
+  | 人工智能系列                                                                                                  |                                        |
+  | :----------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+  | [PyTorch-DDPM](https://github.com/LinXueyuanStdio/PyTorch-DDPM)                                             | 500 行代码实现降噪扩散模型 DDPM，干净无依赖 |
+  | [oh-my-words](https://github.com/LinXueyuanStdio/oh-my-words)                                               |  用 AI 计算当前最优的单词批用于记忆         |
+  | [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension)   | 利用 ChatGPT 生成审稿意见和回复的浏览器插件 |
+  | [PythonDataMining](https://github.com/LinXueyuanStdio/PythonDataMining)                                     | 数据挖掘笔记                              |
+  | [scRNN-seq](https://github.com/LinXueyuanStdio/scRNN-seq)                                                   | RNN序列预测                               |
+  | [Protease-target-prediction](https://github.com/LinXueyuanStdio/Protease-target-prediction)                 | 蛋白质靶标预测                            |
+  | [Silly-AI-learns-to-paint](https://github.com/LinXueyuanStdio/Silly-AI-learns-to-paint)                     | 学画画的AI                                |
 
-4.
+5.
 
   | 个人项目：时光猫                                                                                                | 持续维护 6 年 +                        |                                                                                         |                                   |
   | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------- | :-------------------------------------------------------------------------------------- | :-------------------------------- |

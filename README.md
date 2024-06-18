@@ -68,8 +68,14 @@ Pursue eternity and truth.
   | [Protease-target-prediction](https://github.com/LinXueyuanStdio/Protease-target-prediction)                 | 蛋白质靶标预测                            |
   | [Silly-AI-learns-to-paint](https://github.com/LinXueyuanStdio/Silly-AI-learns-to-paint)                     | 学画画的AI                                |
 
-5.
+4.
+  | streamlit 系列                                                             |   |
+  |:---------------------------------------------------------------------------|:------------|
+  |[streamlit-markdown](https://github.com/LinXueyuanStdio/streamlit-markdown) | a streaming markdown component for streamlit with LaTeX, Mermaid, Table, code support. A drop-in replacement for st.markdown. |
+  |[streamlit-copilot-textarea](https://github.com/LinXueyuanStdio/streamlit-copilot-textarea)|a drop-in replacement for the standard streamlit textarea, offering enhanced autocomplete features powered by AI.|
+  |[streamlit-diff-viewer](https://github.com/LinXueyuanStdio/streamlit-diff-viewer)|git-like diff viewer for streamlit webapp|
 
+5.
   | 个人项目：时光猫                                                                                                | 持续维护 6 年 +                        |                                                                                         |                                   |
   | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------- | :-------------------------------------------------------------------------------------- | :-------------------------------- |
   | [timecat](https://github.com/LinXueyuanStdio/timecat)                                                           | 时光猫本体                             | [mempool](https://github.com/LinXueyuanStdio/mempool)                                   | 时光猫宿主壳，打包                |

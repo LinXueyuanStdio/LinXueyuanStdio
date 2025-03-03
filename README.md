@@ -112,8 +112,8 @@ Pursue eternity and truth.
 - ❤️ Coding.
 - 💬 Email: linxy59@mail2.sysu.edu.cn
 - 🌹 Home: https://linxueyuan.online
-- 👁‍🗨 Blog: https://blog.linxueyuan.online
-- 🧑‍🎓 Academic: https://linxueyuan.online/cv
+
+[[👁‍🗨 Blog]](https://blog.linxueyuan.online) [[🧑‍🎓 Academic]](https://linxueyuan.online/cv)
 
 The `Stdio` in my profile name refers to `#include <stdio.h>`, where I first paced to the world of code. It is not a mistake spelling of `studio`.
 

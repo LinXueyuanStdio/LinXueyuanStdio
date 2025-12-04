@@ -1,7 +1,10 @@
-### Hi 👋  [^2]<img align="right" src="https://profile-counter.glitch.me/LinXueyuanStdio/count.svg" />
+### Hi 👋  [^2]
+
 <img align="right" src="https://github-readme-stats-official.vercel.app/api?username=LinXueyuanStdio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
 <p><img align="right" src="https://github-readme-streak-stats-five-alpha.vercel.app/?user=LinXueyuanStdio" alt="LinXueyuanStdio" /></p>
+
+<img align="right" src="https://github-visitor-counter-tau.vercel.app/api?username=LinXueyuanStdio" />
 
 Study for creating another world.
 

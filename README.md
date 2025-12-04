@@ -4,7 +4,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats-five-alpha.vercel.app/?user=LinXueyuanStdio" alt="LinXueyuanStdio" /></p>
 
-<img align="right" src="https://github-visitor-counter-tau.vercel.app/api?username=LinXueyuanStdio&displayMode=flagMap&mapSize=tiny" />
+<img align="right" src="https://github-visitor-counter-official.vercel.app/api?username=LinXueyuanStdio&displayMode=flagMap&mapSize=tiny" />
 
 Study for creating another world.
 
